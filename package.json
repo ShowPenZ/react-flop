@@ -1,6 +1,6 @@
 {
   "name": "react-flop",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "flop component for React",
   "main": "dist/Flop.min.js",
   "scripts": {
